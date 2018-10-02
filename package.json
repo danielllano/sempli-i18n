@@ -1,6 +1,6 @@
 {
   "name": "sempli-i18n",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Sempli i18n Configuration",
   "main": "build/index.js",
   "scripts": {
