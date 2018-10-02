@@ -1,0 +1,23 @@
+{
+  "name": "sempli-i18n",
+  "version": "1.0.0",
+  "description": "Sempli i18n Configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielllano/sempli-i18n.git"
+  },
+  "keywords": [
+    "i18n",
+    "sempli"
+  ],
+  "author": "Daniel Llano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielllano/sempli-i18n/issues"
+  },
+  "homepage": "https://github.com/danielllano/sempli-i18n#readme"
+}
